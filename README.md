@@ -52,7 +52,7 @@ Employee attrition leads to increased hiring costs, productivity loss, knowledge
 
 ## HR Workforce Attrition Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard]("C:\Users\18sri\OneDrive\Desktop\HR_ATTRITION_ANALYSIS\dashboard\HR WORKFORCE DASHBOARD.pbix".png)
 
 ### Dashboard Highlights
 
